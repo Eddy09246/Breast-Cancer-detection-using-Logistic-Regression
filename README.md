@@ -1,1 +1,1 @@
-# Breast-Cancer-Diagnostic-detection-using-Logistic-Regression
+## The model predicts the likelihood of a breast mass being malignant or benign based on input features.  A prediction of '1' indicates a malignant diagnosis, while '0' indicates benign.  The model's output should be interpreted in conjunction with other clinical assessments and not as a sole diagnostic tool.
